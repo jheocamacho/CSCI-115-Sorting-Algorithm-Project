@@ -1,5 +1,6 @@
 # CSCI-115-SortingAlgorithmProject
 This application will test different sorting algorithms and time how long it takes to complete. There is also a report included to go over the results.
+
 ORIGINAL README:
 Here are the files that were used to run the program and test the different sorting algorithms.
 This project and creation of code was done soley by Jheovanny Camacho (109697217).
